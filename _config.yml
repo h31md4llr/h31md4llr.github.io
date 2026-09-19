@@ -1,0 +1,29 @@
+title: "Yeonghyeon Cha"
+description: "Security Researcher"
+
+url: "https://h31md4llr.github.io"
+baseurl: ""
+
+timezone: "Asia/Seoul"
+
+theme: minima
+
+permalink: /:categories/:title/
+
+header_pages:
+  - research.md
+  - activities.md
+  - about.md
+
+author:
+  name: "Yeonghyeon Cha"
+
+github_username: h31md4llr
+
+show_excerpts: true
+
+minima:
+  date_format: "%Y-%m-%d"
+
+plugins:
+  - jekyll-feed
