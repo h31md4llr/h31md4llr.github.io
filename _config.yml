@@ -13,7 +13,6 @@ permalink: /:categories/:title/
 header_pages:
   - research.md
   - activities.md
-  - about.md
 
 author:
   name: "Yeonghyeon Cha"
