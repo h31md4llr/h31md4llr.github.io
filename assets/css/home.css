@@ -138,7 +138,8 @@ a:focus-visible {
 }
 
 .home-role {
-  font-weight: 600;
+  font-size: 1.1rem;
+  font-weight: 750;
 }
 
 .home-org,
