@@ -5,8 +5,7 @@ layout: home
 <section class="home-section" id="about">
   <h2>About</h2>
   <p>
-    Security researcher interested in computer security, confidential computing,
-    AI, and everything about computers.
+    Security researcher interested in Computer Security, Confidential Computing, AI, and everything about computers.
   </p>
 </section>
 
@@ -50,6 +49,29 @@ layout: home
     </div>
     <p>Minor in Cyber Defense and Convergence Security</p>
   </article>
+</section>
+
+<section class="home-selection" id="publication">
+  <h2>Publication</h2>
+
+  <article class="home-entry">
+    <div class="home-entry-header">
+      <span class="home-role">A Hardware-Based Correct Execution Environment Supporting Virtual Memory</span>
+      <span class="home-dates">2024</span>
+    </div>
+    <p>IEEE Access
+    <br>Daehyeon Lee, Ohsuk Shin, <strong>Yeonghyeon Cha</strong>, Junghee Lee, Taisic Yun, Jihye Kim</p>
+  </article>
+
+  <article class="home-entry">
+    <div class="home-entry-header">
+      <span class="home-role">ATLANTIS: AI-driven Threat Localization, Analysis, and Triage Intelligence System</span>
+      <span class="home-dates">2025</span>
+    </div>
+    <p>Arxiv<br>
+    <a href="https://team-atlanta.github.io/">Team Atlanta</a></p>
+  </article>
+
 </section>
 
 <section class="home-section" id="experience">
