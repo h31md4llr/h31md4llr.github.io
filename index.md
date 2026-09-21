@@ -63,14 +63,7 @@ layout: home
     </div>
     <p>Vulnerability Research about Galaxy Watch (Team WatchOver) - <strong>7 CVEs</strong></p>
   </article>
-  <article class="home-entry">
-    <div class="home-entry-header">
-      <span class="home-role">CyberNet @Netherlands DCC</span>
-      <span class="home-org">· 1st</span>
-      <span class="home-dates">2024, 2025</span>
-    </div>
-    <p>Netherlands DCC Annual International Attack-Defense Cyber Exercise</p>
-  </article>
+
   <article class="home-entry">
     <div class="home-entry-header">
       <span class="home-role">ROK Army Officer</span>
@@ -79,6 +72,16 @@ layout: home
     </div>
     <p>Red teaming, Penestration Testing, Offensive Security, Vulnerability Research</p>
   </article>
+
+  <article class="home-entry">
+    <div class="home-entry-header">
+      <span class="home-role">CyberNet @Netherlands DCC</span>
+      <span class="home-org">· 1st</span>
+      <span class="home-dates">2024, 2025</span>
+    </div>
+    <p>Netherlands DCC Annual International Attack-Defense Cyber Exercise</p>
+  </article>
+
   <article class="home-entry">
     <div class="home-entry-header">
       <span class="home-role">AIxCC Winner</span>
@@ -88,6 +91,7 @@ layout: home
     <p>Won DARPA AI Cyber Challenge (AIxCC) as part of Team Atlanta;<br> 
     contributed static analysis, sarif report generation, and benchmark development components</p>
   </article>
+
   <article class="home-entry">
     <div class="home-entry-header">
       <span class="home-role">CCE 2026 Finals Public Organization</span>
