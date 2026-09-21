@@ -48,7 +48,52 @@ layout: home
       <span class="home-org">· Korea University</span>
       <span class="home-dates">Mar. 2018 – Feb. 2022</span>
     </div>
-    <p class="home-note">Minor in Cyber Defense and Convergence Security</p>
+    <p>Minor in Cyber Defense and Convergence Security</p>
+  </article>
+</section>
+
+<section class="home-section" id="experience">
+  <h2> Experience </h2>
+
+  <article class="home-entry">
+    <div class="home-entry-header">
+      <span class="home-role">Best of Best 9th</span>
+      <span class="home-org">· Top 30</span>
+      <span class="home-dates">Jun. 2020 – Mar. 2021</span>
+    </div>
+    <p>Vulnerability Research about Galaxy Watch (Team WatchOver) - <strong>7 CVEs</strong></p>
+  </article>
+  <article class="home-entry">
+    <div class="home-entry-header">
+      <span class="home-role">CyberNet @Netherlands DCC</span>
+      <span class="home-org">· 1st</span>
+      <span class="home-dates">2024, 2025</span>
+    </div>
+    <p>Netherlands DCC Annual International Attack-Defense Cyber Exercise</p>
+  </article>
+  <article class="home-entry">
+    <div class="home-entry-header">
+      <span class="home-role">ROK Army Officer</span>
+      <span class="home-org">· MND</span>
+      <span class="home-dates">Jun. 2022 - May. 2029</span>
+    </div>
+    <p>Red teaming, Penestration Testing, Offensive Security, Vulnerability Research</p>
+  </article>
+  <article class="home-entry">
+    <div class="home-entry-header">
+      <span class="home-role">AIxCC Winner</span>
+      <span class="home-org">· DARPA</span>
+      <span class="home-dates">Aug. 2025</span>
+    </div>
+    <p>Won DARPA AI Cyber Challenge (AIxCC) as part of Team Atlanta;<br> 
+    contributed static analysis, sarif report generation, and benchmark development components</p>
+  </article>
+  <article class="home-entry">
+    <div class="home-entry-header">
+      <span class="home-role">CCE 2026 Finals Public Organization</span>
+      <span class="home-org">· 4th (Team Casino-777)</span>
+      <span class="home-dates">Sep. 2026</span>
+    </div>
   </article>
 </section>
 
